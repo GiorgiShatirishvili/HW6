@@ -1,0 +1,35 @@
+.cards{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    padding: 44px 98px 79px 98px;
+    margin: 0 auto;
+}
+ul{
+    display: flex;
+    gap: 91px;
+}
+a{
+    margin-right: 521px
+}
+footer{
+    display: flex;
+    background-color: #758BFD;
+    width: 100%;
+    padding: 46px 98px 30px 893px;
+    margin: 0 auto;
+}
+.logo_footer{
+    margin-right: 690px;
+    margin-left: 97px;
+    margin-top: 59px;
+    margin-bottom: 44px;
+}
+.search{
+    margin-top: 46px;
+    margin-bottom: 30px;
+    margin-right:98px;
+}
